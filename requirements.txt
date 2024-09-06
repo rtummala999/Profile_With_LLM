@@ -1,0 +1,12 @@
+Flask
+python-dotenv
+requests
+werkzeug
+PyPDF2
+PYPdf
+langchain[docarray]
+tiktoken
+langchain
+openai==1.36.0
+chromadb
+langchain-community
